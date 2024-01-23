@@ -1,0 +1,3 @@
+git checkout master
+git merge qkantik
+git branch -d qkantik
