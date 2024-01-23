@@ -1,0 +1,3 @@
+git checkout master
+git merge qkant2jr
+git branch -d qkant2jr
